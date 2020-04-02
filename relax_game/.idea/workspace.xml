@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="970d0fbc-ae71-44f9-835b-e2df0cdb6fe8" name="Default Changelist" comment="" />
+    <list default="true" id="970d0fbc-ae71-44f9-835b-e2df0cdb6fe8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/relax_game.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/relax_game.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +19,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1ZtkNNhfyQ7lt1IZ2FQutOd30SB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +31,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -33,9 +44,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\Admin\PycharmProjects\Nhap\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learnPython" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learnPython/learnPython.py" />
@@ -68,6 +79,10 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.learnPython" />
+      <item itemvalue="Python.tet" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.learnPython" />
@@ -88,31 +103,53 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
+    <state x="254" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585820574979">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="254" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog/62.0.1474.864@62.0.1474.864" timestamp="1585820574979" />
+    <state x="579" y="190" key="FileChooserDialogImpl" timestamp="1585820074997">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="579" y="190" key="FileChooserDialogImpl/62.0.1474.864@62.0.1474.864" timestamp="1585820074997" />
     <state x="626" y="350" key="Github.CreateGistDialog" timestamp="1585666418041">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state x="626" y="350" key="Github.CreateGistDialog/62.0.1474.864@62.0.1474.864" timestamp="1585666418041" />
-    <state width="1453" height="215" key="GridCell.Tab.0.bottom" timestamp="1585808424186">
+    <state width="726" height="215" key="GridCell.Tab.0.bottom" timestamp="1585820461563">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1453" height="215" key="GridCell.Tab.0.bottom/62.0.1474.864@62.0.1474.864" timestamp="1585808424186" />
-    <state width="1453" height="215" key="GridCell.Tab.0.center" timestamp="1585808424186">
+    <state width="726" height="215" key="GridCell.Tab.0.bottom/62.0.1474.864@62.0.1474.864" timestamp="1585820461563" />
+    <state width="726" height="215" key="GridCell.Tab.0.center" timestamp="1585820461563">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1453" height="215" key="GridCell.Tab.0.center/62.0.1474.864@62.0.1474.864" timestamp="1585808424186" />
-    <state width="1453" height="215" key="GridCell.Tab.0.left" timestamp="1585808424185">
+    <state width="726" height="215" key="GridCell.Tab.0.center/62.0.1474.864@62.0.1474.864" timestamp="1585820461563" />
+    <state width="726" height="215" key="GridCell.Tab.0.left" timestamp="1585820461563">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1453" height="215" key="GridCell.Tab.0.left/62.0.1474.864@62.0.1474.864" timestamp="1585808424185" />
-    <state width="1453" height="215" key="GridCell.Tab.0.right" timestamp="1585808424186">
+    <state width="726" height="215" key="GridCell.Tab.0.left/62.0.1474.864@62.0.1474.864" timestamp="1585820461563" />
+    <state width="726" height="215" key="GridCell.Tab.0.right" timestamp="1585820461563">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1453" height="215" key="GridCell.Tab.0.right/62.0.1474.864@62.0.1474.864" timestamp="1585808424186" />
-    <state x="877" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1585808567093">
+    <state width="726" height="215" key="GridCell.Tab.0.right/62.0.1474.864@62.0.1474.864" timestamp="1585820461563" />
+    <state x="310" y="78" key="SettingsEditor" timestamp="1585820712800">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state x="877" y="260" key="com.intellij.ide.util.TipDialog/62.0.1474.864@62.0.1474.864" timestamp="1585808567093" />
+    <state x="310" y="78" key="SettingsEditor/62.0.1474.864@62.0.1474.864" timestamp="1585820712800" />
+    <state x="877" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1585822304278">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="877" y="260" key="com.intellij.ide.util.TipDialog/62.0.1474.864@62.0.1474.864" timestamp="1585822304278" />
     <state x="830" y="181" key="search.everywhere.popup" timestamp="1585766741626">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
